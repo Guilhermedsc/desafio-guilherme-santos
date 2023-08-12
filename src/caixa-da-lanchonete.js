@@ -20,7 +20,6 @@ class CaixaDaLanchonete {
     // Método para calcular o valor da compra
     calcularValorDaCompra(formaDePagamento, itens) {
         let valorTotal = 0;
-        let principalEncontrado = false;
 
         // Verificação da forma de pagamento válida
         if (!['dinheiro', 'debito', 'credito'].includes(formaDePagamento)) {
@@ -39,11 +38,6 @@ class CaixaDaLanchonete {
             // Verificação de item inválido
             if (!cardapioItem) {
                 return "Item inválido!";
-            }
-
-            // Verificação de item principal
-            if (!codigo.startsWith('combo')) {
-                principalEncontrado = true;
             }
 
             // Verificação de quantidade inválida
@@ -71,11 +65,6 @@ class CaixaDaLanchonete {
         // Verificação de carrinho vazio
         if (itens.length === 0) {
             return "Não há itens no carrinho de compra!";
-        }
-
-        // Verificação de item extra sem principal
-        if (!principalEncontrado) {
-            return "Item extra não pode ser pedido sem o principal";
         }
 
         // Verificação de itens extras sem principais correspondentes
