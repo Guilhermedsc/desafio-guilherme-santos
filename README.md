@@ -1,7 +1,7 @@
 # CAIXA DA LANCHONETE
 
-- ## [Deasfio]()
-- ## [Explicando código]()
+- ## [Deasfio](https://github.com/Guilhermedsc/desafio-guilherme-santos#breve-resumo-sobre-o-desafio)
+- ## [Explicando código](https://github.com/Guilhermedsc/desafio-guilherme-santos#explicando-o-c%C3%B3digo)
 
 <!-- ## COMO BAIXAR O CÓDIGO E SUBMETER MINHA SOLUÇÃO?
 Para completar a etapa do desafio você terá que baixar a estrutura do código aqui na Azure, resolver o desafio e entregá-lo no repositório no seu github.
