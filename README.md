@@ -137,9 +137,9 @@ O resultado esperado deve ser:
 ```
 
 ### EXPLICANDO O CÓDIGO
-Abaixo estarei explicando o código que foi desenvolvido para resolver o desafio. Será divido em partes do código e explicações dessas mesmas partes. [Clique aqui para ir para o código](src\caixa-da-lanchonete.js)
+Abaixo estarei explicando o código que foi desenvolvido para resolver o desafio. Será divido em partes do código e explicações dessas mesmas partes. [Clique aqui para ir para o código](https://github.com/Guilhermedsc/desafio-guilherme-santos/blob/main/src/caixa-da-lanchonete.js)
 
-Vale ressaltar o arquivo de teste, ele também foi modificado para adcionar 11 novos testes. [Clique aqui para ir para o arquivo de teste](src\caixa-da-lanchonete.test.js)
+Vale ressaltar o arquivo de teste, ele também foi modificado para adcionar 11 novos testes. [Clique aqui para ir para o arquivo de teste](https://github.com/Guilhermedsc/desafio-guilherme-santos/blob/main/src/caixa-da-lanchonete.test.js)
 
 ### Construtor e Inicialização
 ```js
